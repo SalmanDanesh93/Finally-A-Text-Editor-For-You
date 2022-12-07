@@ -30,8 +30,8 @@ module.exports = () => {
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
-        name: 'Just Another Text Editor',
-        description: 'J.A.T.E',
+        name: 'Finally A Text Editor For You',
+        description: 'F.A.T.E.F.Y.',
         background_color: '#a3d08f',
         theme_color: '#a3d08f',
         start_url: '/',
