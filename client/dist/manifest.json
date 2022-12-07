@@ -31,12 +31,12 @@
       "type": "image/png"
     }
   ],
-  "name": "Just Another Text Editor",
-  "short_name": "Just Another Text Editor",
+  "name": "Finally A Text Editor For You",
+  "short_name": "Finally A Text Editor For You",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
-  "description": "J.A.T.E",
+  "description": "F.A.T.E.F.Y.",
   "background_color": "#a3d08f",
   "theme_color": "#a3d08f"
 }

@@ -40,7 +40,6 @@ registerRoute(
   })
 );
 
-offlineFallback();
 
 module.exports = {
   resolve: {

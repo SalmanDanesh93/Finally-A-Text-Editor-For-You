@@ -1,7 +1,7 @@
 {
   "name": "fatefy",
   "version": "1.0.0",
-  "description": "",
+  "description": "Finally A Text Editor For You!",
   "main": "server.js",
   "scripts": {
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
@@ -16,12 +16,11 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "if-env": "^1.0.4",
-    "webpack": "^5.75.0",
-    "webpack-cli": "^5.0.1"
+    "if-env": "^1.0.4"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4"
   }
 }
+
