@@ -54,11 +54,11 @@ module.exports = () => {
         },
         {
           test: /\.m?js$/,
-          exlude: /node_modules/,
+          exclude: /node_modules/,
           use: {
             loader: 'babel-loader',
             options: {
-              presents: ['@babel/present-env'],
+              presets: ['@babel/present-env'],
               plugins: ['@babel/plugin-proposal-object-rest-spread', '@babel/transform-runtime'],
             }
           }
